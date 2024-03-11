@@ -1,6 +1,8 @@
 # YouTube Assistant
 
-This is an application designed to assist users by providing them with information about YouTube videos upon request. This could include generating summaries for long-form content, such as 3-hour podcasts, or asking specific questions from the video, making it easier for users to get the required information without watching the entire thing. 
+This is an application designed to assist users by providing them with information about YouTube videos upon request. This could include generating summaries for long-form content, such as 3-hour podcasts, or asking specific questions from the video, making it easier for users to get the required information without watching the entire thing.
+
+![Screenshot of the application](data/screenshot.png)
 
 ## Features
 
