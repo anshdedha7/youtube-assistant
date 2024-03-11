@@ -1,12 +1,12 @@
-```markdown
 # YouTube Assistant
 
 This is an application designed to assist users by providing them with information about YouTube videos upon request. This could include generating summaries for long-form content, such as 3-hour podcasts, or asking specific questions from the video, making it easier for users to get the required information without watching the entire thing. 
 
 ## Features
 
-- **Dynamic Query Handling**: Users can input specific questions related to YouTube videos and receive accurate responses based on the video's transcript.
-- **Custom Data Handling**: Incorporates YouTube transcripts into the model, providing contextually relevant responses.
+**Dynamic Query Handling**: Users can input specific questions related to YouTube videos and receive accurate responses based on the video's transcript.
+
+**Custom Data Handling**: Incorporates YouTube transcripts into the model, providing contextually relevant responses.
 
 ## Installation
 
